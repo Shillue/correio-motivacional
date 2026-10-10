@@ -21,14 +21,12 @@ O Correio Motivacional é uma aplicação responsiva desenvolvida com HTML, CSS 
 
 ### 📱 Mobile
 
-<img src="./screenshots/mobile.png" alt="Correio Motivacional — versão desktop" width="800" height="450">
-
-
+<img src="./screenshots/mobile.png" alt="Correio Motivacional — versão desktop" width="300" height="400">
 
 
 ### 🖥️ Desktop
 
-<img src="./screenshots/desktop.png" alt="Correio Motivacional — versão desktop" width="800" height="450">
+<img src="./screenshots/desktop.png" alt="Correio Motivacional — versão desktop" width="550" height="450">
 
 
 ## 🛠️ Tecnologias
