@@ -41,25 +41,25 @@ O Correio Motivacional é uma aplicação responsiva desenvolvida com HTML, CSS 
 
 ## 📁 Estrutura do projeto
 
-correio-motivacional/
-├── index.html
-├── assets/
-│   ├── images/
-│   └── molduras/
-├── styles/
-│   ├── style.css
-│   └── responsive.css
-└── js/
-    ├── main.js
-    ├── components/
-    │   ├── message.js
-    │   ├── save.js
-    │   ├── modal.js
-    │   └── compartilha.js
-    └── data/
-        ├── mensagens.json
-        ├── molduras.json
-        └── simbolos.json
+correio-motivacional/   
+├── index.html   
+├── assets/    
+│   ├── images/    
+│   └── molduras/    
+├── styles/    
+│   ├── style.css    
+│   └── responsive.css    
+└── js/    
+    ├── main.js    
+    ├── components/     
+    │   ├── message.js     
+    │   ├── save.js     
+    │   ├── modal.js    
+    │   └── compartilha.js    
+    └── data/    
+        ├── mensagens.json     
+        ├── molduras.json     
+        └── simbolos.json      
 
 ## 🚀 Acesse o projeto
 
