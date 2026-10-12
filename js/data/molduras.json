@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "nome": "Girassóis",
+        "arquivo": "./assets/molduras/moldura-girassois.png",
+        "proporcao": "1:1.4"
+    },
+    {
+        "id": 2,
+        "nome": "Rosas",
+        "arquivo": "./assets/molduras/moldura-rosas.png",
+        "proporcao": "1:1.47"
+    },
+    {
+        "id": 3,
+        "nome": "Corações",
+        "arquivo": "./assets/molduras/moldura-coracoes.png",
+        "proporcao": "1:1.4"
+    },
+    {
+        "id": 4,
+        "nome": "Rosas e Corações",
+        "arquivo": "./assets/molduras/moldura-rosas-coracoes.png",
+        "proporcao": "1:1.4"
+    },
+    {
+        "id": 5,
+        "nome": "Flores",
+        "arquivo": "./assets/molduras/moldura-flores.png",
+        "proporcao": "1:1.47"
+    },
+    {
+        "id": 6,
+        "nome": "Tropical",
+        "arquivo": "./assets/molduras/moldura-tropical.png",
+        "proporcao": "1:1.47"
+    },
+    {
+        "id": 7,
+        "nome": "Gatinhos",
+        "arquivo": "./assets/molduras/moldura-gatinhos.png",
+        "proporcao": "1:1.47"
+    },
+    {
+        "id": 8,
+        "nome": "Ursinhos",
+        "arquivo": "./assets/molduras/moldura-ursos.png",
+        "proporcao": "1:1.47"
+    },
+    {
+        "id": 9,
+        "nome": "Pandas",
+        "arquivo": "./assets/molduras/moldura-pandas.png",
+        "proporcao": "1:1.47"
+    }
+]

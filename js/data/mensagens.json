@@ -1,0 +1,402 @@
+[
+    {
+        "id": 1,
+        "texto": "Que hoje você encontre pequenos motivos para sorrir e perceba que eles já fazem o dia valer a pena."
+    },
+    {
+        "id": 2,
+        "texto": "Você não precisa ter tudo resolvido para estar fazendo um bom trabalho. Um passo de cada vez."
+    },
+    {
+        "id": 3,
+        "texto": "Nunca se esqueça do quanto você já superou para chegar até aqui. Você é mais forte do que imagina."
+    },
+    {
+        "id": 4,
+        "texto": "Recomeçar não significa voltar ao início. Você leva consigo tudo o que aprendeu pelo caminho."
+    },
+    {
+        "id": 5,
+        "texto": "Mesmo nos dias difíceis, existe dentro de você uma força que merece ser lembrada."
+    },
+    {
+        "id": 6,
+        "texto": "Seus sonhos não precisam fazer sentido para todo mundo. Eles só precisam fazer sentido para você."
+    },
+    {
+        "id": 7,
+        "texto": "Não diminua suas pequenas conquistas. Cada uma delas também conta a história de tudo o que você está construindo."
+    },
+    {
+        "id": 8,
+        "texto": "Hoje, permita-se descansar sem culpa. Cuidar de você também é uma forma de seguir em frente."
+    },
+    {
+        "id": 9,
+        "texto": "Talvez nem tudo esteja acontecendo no seu tempo, mas isso não significa que coisas bonitas não estejam a caminho."
+    },
+    {
+        "id": 10,
+        "texto": "Você merece receber de si mesma o mesmo carinho que costuma oferecer às pessoas que ama."
+    },
+    {
+        "id": 11,
+        "texto": "Há amizades que chegam de mansinho e acabam se tornando pequenos lugares de paz. Valorize quem faz seu coração sorrir."
+    },
+    {
+        "id": 12,
+        "texto": "Respire fundo. Nem todo problema precisa ser resolvido hoje. Às vezes, tudo o que você precisa é de um pouco de calma."
+    },
+    {
+        "id": 13,
+        "texto": "Confie um pouquinho mais em você. Você conhece suas batalhas melhor do que qualquer pessoa."
+    },
+    {
+        "id": 14,
+        "texto": "Um novo começo pode nascer de uma decisão pequena. Nunca subestime o poder de dar o primeiro passo."
+    },
+    {
+        "id": 15,
+        "texto": "Continue, mesmo que seja devagar. Caminhar lentamente ainda é caminhar."
+    },
+    {
+        "id": 16,
+        "texto": "Você não precisa ser perfeita para ser admirável. Sua autenticidade já tem uma beleza própria."
+    },
+    {
+        "id": 17,
+        "texto": "Que você consiga olhar para si com mais gentileza e reconhecer tudo aquilo que existe de bonito em você."
+    },
+    {
+        "id": 18,
+        "texto": "Existe coragem também em dizer 'eu preciso de um tempo'. Você não precisa estar bem o tempo inteiro."
+    },
+    {
+        "id": 19,
+        "texto": "Alguns dos melhores capítulos começam justamente depois de uma fase que parecia não ter saída."
+    },
+    {
+        "id": 20,
+        "texto": "Celebre aquela pequena vitória que só você sabe o quanto custou para conquistar. Você merece."
+    },
+    {
+        "id": 21,
+        "texto": "Não tenha pressa para florescer. Cada pessoa tem seu próprio tempo, e o seu também é bonito."
+    },
+    {
+        "id": 22,
+        "texto": "Você pode mudar de caminho sem considerar fracasso tudo o que viveu antes. Algumas estradas existem para nos ensinar."
+    },
+    {
+        "id": 23,
+        "texto": "Que nunca falte esperança para acreditar que amanhã pode trazer algo que hoje você ainda nem consegue imaginar."
+    },
+    {
+        "id": 24,
+        "texto": "Quando o dia parecer pesado, procure uma coisa pequena que traga conforto. Às vezes, é assim que a leveza começa."
+    },
+    {
+        "id": 25,
+        "texto": "Você é capaz de aprender, mudar, crescer e tentar novamente quantas vezes forem necessárias."
+    },
+    {
+        "id": 26,
+        "texto": "Não compare o seu capítulo atual com o capítulo de outra pessoa. Sua história está sendo escrita no seu próprio ritmo."
+    },
+    {
+        "id": 27,
+        "texto": "Permita-se comemorar também as coisas que parecem simples. Um sorriso, um descanso, um dia tranquilo. Tudo isso importa."
+    },
+    {
+        "id": 28,
+        "texto": "Às vezes, você precisa apenas lembrar que já sobreviveu a dias que um dia pensou que não conseguiria atravessar."
+    },
+    {
+        "id": 29,
+        "texto": "Que você tenha coragem para deixar ir aquilo que já não combina com a pessoa que está se tornando."
+    },
+    {
+        "id": 30,
+        "texto": "Seu valor não diminui nos dias em que você produz menos, erra ou precisa parar. Você continua sendo você."
+    },
+    {
+        "id": 31,
+        "texto": "Há beleza em começar de novo com mais experiência, mais consciência e um coração que aprendeu pelo caminho."
+    },
+    {
+        "id": 32,
+        "texto": "Não espere uma grande ocasião para ser feliz. Existem momentos preciosos escondidos nas coisas mais simples."
+    },
+    {
+        "id": 33,
+        "texto": "Se hoje você conseguiu fazer o melhor que podia, isso já é motivo suficiente para se orgulhar."
+    },
+    {
+        "id": 34,
+        "texto": "Você não precisa saber exatamente onde vai chegar. Às vezes, basta confiar no próximo passo."
+    },
+    {
+        "id": 35,
+        "texto": "Que seus sonhos encontrem espaço para crescer e que você nunca deixe o medo decidir por você."
+    },
+    {
+        "id": 36,
+        "texto": "Tenha paciência com a sua própria história. Algumas coisas bonitas precisam de tempo para acontecer."
+    },
+    {
+        "id": 37,
+        "texto": "Você merece momentos em que não precise provar nada para ninguém. Apenas respirar, existir e aproveitar."
+    },
+    {
+        "id": 38,
+        "texto": "Mesmo quando você não percebe, sua presença pode tornar o dia de alguém um pouquinho melhor."
+    },
+    {
+        "id": 39,
+        "texto": "Se algo não deu certo hoje, isso não define o que pode acontecer amanhã. Ainda existem muitos caminhos possíveis."
+    },
+    {
+        "id": 40,
+        "texto": "Que você encontre pessoas que celebrem suas conquistas, respeitem seus limites e façam você se sentir em casa."
+    },
+    {
+        "id": 41,
+        "texto": "Você pode sentir medo e ainda assim seguir. Coragem não é ausência de medo, é não deixar que ele escolha por você."
+    },
+    {
+        "id": 42,
+        "texto": "Olhe com carinho para a pessoa que você era e para a pessoa que está se tornando. Ambas fizeram o possível para chegar até aqui."
+    },
+    {
+        "id": 43,
+        "texto": "Talvez o que você considera uma pequena conquista seja exatamente a prova de que está avançando. Continue reconhecendo seu progresso."
+    },
+    {
+        "id": 44,
+        "texto": "Não se cobre respostas para tudo. Algumas coisas ficam mais claras quando damos tempo para o coração respirar."
+    },
+    {
+        "id": 45,
+        "texto": "Que você tenha um dia cheio daqueles pequenos acontecimentos que fazem o coração pensar: 'ainda bem que eu vivi isso'."
+    },
+    {
+        "id": 46,
+        "texto": "Você merece acreditar nas possibilidades bonitas que ainda existem na sua vida. Não deixe experiências ruins roubarem toda a sua esperança."
+    },
+    {
+        "id": 47,
+        "texto": "Cuide dos seus sonhos, mas cuide também da pessoa que está caminhando em direção a eles. Você importa tanto quanto o destino."
+    },
+    {
+        "id": 48,
+        "texto": "Se ninguém te lembrou hoje: você está fazendo o que pode, e isso merece um pouco de carinho e reconhecimento."
+    },
+    {
+        "id": 49,
+        "texto": "Que você nunca perca a capacidade de se encantar com as pequenas coisas que tornam a vida mais bonita."
+    },
+    {
+        "id": 50,
+        "texto": "Um lembrete carinhoso para guardar: ainda há muitos sorrisos, encontros, descobertas e momentos especiais esperando por você."
+    },
+    {
+        "id": 51,
+        "texto": "Você merece dias leves, abraços sinceros e motivos inesperados para sorrir quando menos estiver esperando."
+    },
+    {
+        "id": 52,
+        "texto": "Às vezes, a felicidade chega baixinho: numa música favorita, num café quentinho ou numa mensagem de alguém especial."
+    },
+    {
+        "id": 53,
+        "texto": "Nunca se esqueça de que você também merece o carinho, a paciência e a compreensão que oferece aos outros."
+    },
+    {
+        "id": 54,
+        "texto": "Que a vida surpreenda você com encontros bonitos, notícias felizes e pequenos milagres disfarçados de coincidências."
+    },
+    {
+        "id": 55,
+        "texto": "Seu jeito de ser tem um brilho próprio. Não precisa se parecer com ninguém para tornar o mundo mais bonito."
+    },
+    {
+        "id": 56,
+        "texto": "Hoje pode ser um ótimo dia para fazer algo só porque isso deixa seu coração quentinho e feliz."
+    },
+    {
+        "id": 57,
+        "texto": "Você não precisa conquistar o mundo inteiro. Às vezes, vencer o próprio desânimo já é uma grande conquista."
+    },
+    {
+        "id": 58,
+        "texto": "Que nunca faltem motivos para rir até a barriga doer e pessoas com quem compartilhar esses momentos."
+    },
+    {
+        "id": 59,
+        "texto": "Sua história não precisa ser extraordinária aos olhos dos outros para ser cheia de momentos preciosos e inesquecíveis."
+    },
+    {
+        "id": 60,
+        "texto": "Quando tudo parecer corrido demais, lembre-se de que você pode desacelerar e apreciar a beleza do caminho."
+    },
+    {
+        "id": 61,
+        "texto": "Há algo muito bonito em continuar acreditando no bem, mesmo depois de conhecer dias que tentaram apagar sua esperança."
+    },
+    {
+        "id": 62,
+        "texto": "Que você receba hoje uma gentileza inesperada e se lembre de como pequenos gestos podem mudar o nosso dia."
+    },
+    {
+        "id": 63,
+        "texto": "Não esconda sua alegria para caber nas expectativas de ninguém. Seu brilho merece espaço para aparecer."
+    },
+    {
+        "id": 64,
+        "texto": "Você merece amizades que façam qualquer conversa simples virar uma lembrança que dá vontade de guardar para sempre."
+    },
+    {
+        "id": 65,
+        "texto": "Nem todos os dias precisam render grandes feitos. Alguns só precisam trazer descanso, tranquilidade e um pouco de paz."
+    },
+    {
+        "id": 66,
+        "texto": "Que você tenha olhos atentos para perceber as coisas bonitas que já existem ao seu redor, mesmo nos dias comuns."
+    },
+    {
+        "id": 67,
+        "texto": "Não tenha vergonha de se orgulhar de si. Você conhece cada esforço silencioso que fez para chegar até aqui."
+    },
+    {
+        "id": 68,
+        "texto": "Às vezes, a melhor parte do dia é descobrir que você consegue sorrir novamente depois de uma fase complicada."
+    },
+    {
+        "id": 69,
+        "texto": "Que seus planos encontrem boas oportunidades e que você tenha coragem de abraçar as surpresas pelo caminho."
+    },
+    {
+        "id": 70,
+        "texto": "Você é muito mais do que seus dias ruins, seus erros ou suas dúvidas. Existe tanta coisa bonita em você."
+    },
+    {
+        "id": 71,
+        "texto": "Guarde um espacinho no coração para as surpresas boas. Nem tudo precisa ser planejado para se tornar especial."
+    },
+    {
+        "id": 72,
+        "texto": "Que você encontre conforto nas pessoas certas e força para se afastar daquilo que rouba sua tranquilidade."
+    },
+    {
+        "id": 73,
+        "texto": "Sua presença pode ser o detalhe favorito do dia de alguém. Nunca subestime a beleza de ser quem você é."
+    },
+    {
+        "id": 74,
+        "texto": "Permita-se gostar das coisas simples, mudar de ideia e descobrir novos sonhos. A vida também é feita de descobertas."
+    },
+    {
+        "id": 75,
+        "texto": "Mesmo que hoje seja um dia comum, ainda pode existir nele uma conversa, um sorriso ou uma lembrança especial."
+    },
+    {
+        "id": 76,
+        "texto": "Você merece comemorar suas conquistas sem diminuí-las e receber elogios sem sentir que precisa se justificar."
+    },
+    {
+        "id": 77,
+        "texto": "Que a sua semana tenha boas notícias, momentos divertidos e pausas suficientes para respirar com tranquilidade."
+    },
+    {
+        "id": 78,
+        "texto": "Não deixe que a pressa roube a alegria das pequenas coisas. Você também merece aproveitar aquilo que está vivendo."
+    },
+    {
+        "id": 79,
+        "texto": "Existem pessoas que tornam a vida mais leve só por estarem por perto. Que você encontre muitas delas pelo caminho."
+    },
+    {
+        "id": 80,
+        "texto": "Você pode ter dúvidas sobre o futuro e ainda assim construir algo bonito no presente, um pequeno passo de cada vez."
+    },
+    {
+        "id": 81,
+        "texto": "Que hoje você se permita rir sem motivo, cantar sua música favorita e aproveitar um instante só seu."
+    },
+    {
+        "id": 82,
+        "texto": "Não precisa transformar todos os dias em grandes histórias. Às vezes, a tranquilidade já é um presente enorme."
+    },
+    {
+        "id": 83,
+        "texto": "Seu coração também merece dias de descanso, conversas acolhedoras e a liberdade de não precisar dar conta de tudo."
+    },
+    {
+        "id": 84,
+        "texto": "Que as coisas boas encontrem você de maneiras inesperadas e tragam aquela sensação gostosa de que vale a pena continuar."
+    },
+    {
+        "id": 85,
+        "texto": "Você não precisa ter todas as respostas para viver experiências bonitas. Algumas descobertas acontecem enquanto caminhamos."
+    },
+    {
+        "id": 86,
+        "texto": "Celebre seu jeito único de enxergar o mundo. As pequenas coisas que encantam você também merecem ser valorizadas."
+    },
+    {
+        "id": 87,
+        "texto": "Que você tenha coragem para experimentar algo novo e leveza para rir de si mesma quando nem tudo sair como esperado."
+    },
+    {
+        "id": 88,
+        "texto": "A vida fica mais bonita quando você aprende a reconhecer o próprio progresso sem precisar se comparar com ninguém."
+    },
+    {
+        "id": 89,
+        "texto": "Tomara que hoje alguém faça você sorrir daquele jeito espontâneo que aparece antes mesmo de percebermos."
+    },
+    {
+        "id": 90,
+        "texto": "Você merece um amor que traga tranquilidade, amizades que tragam alegria e uma rotina com espaço para seus sonhos."
+    },
+    {
+        "id": 91,
+        "texto": "Não é preciso esperar tudo melhorar para encontrar um instante de alegria. Pequenas felicidades também cabem em dias difíceis."
+    },
+    {
+        "id": 92,
+        "texto": "Que você nunca perca a curiosidade de conhecer lugares, experimentar sabores e criar lembranças que aquecem o coração."
+    },
+    {
+        "id": 93,
+        "texto": "Existe muita beleza em quem continua sendo gentil sem esquecer de estabelecer limites e cuidar de si."
+    },
+    {
+        "id": 94,
+        "texto": "Hoje, faça uma pequena coisa que seu eu do futuro agradecerá e outra que seu coração agradeça agora."
+    },
+    {
+        "id": 95,
+        "texto": "Que os seus dias sejam preenchidos por conversas sinceras, risadas demoradas e pessoas que celebram sua felicidade."
+    },
+    {
+        "id": 96,
+        "texto": "Você tem permissão para mudar, crescer e deixar para trás versões suas que já não representam quem você é."
+    },
+    {
+        "id": 97,
+        "texto": "Às vezes, um momento de paz vale mais do que mil planos realizados com pressa. Respeite o seu ritmo."
+    },
+    {
+        "id": 98,
+        "texto": "Que você encontre motivos para agradecer, liberdade para sonhar e confiança para criar uma vida que combine com você."
+    },
+    {
+        "id": 99,
+        "texto": "Nunca subestime o poder de um gesto gentil. Uma palavra sua pode ser justamente o carinho que alguém precisava hoje."
+    },
+    {
+        "id": 100,
+        "texto": "Um carinho em forma de lembrete: você ainda vai viver momentos lindos que hoje nem imagina, e merece aproveitá-los."
+    }
+]

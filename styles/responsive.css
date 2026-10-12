@@ -1,0 +1,169 @@
+/* Ajustes para telas Pequenas */
+@media (max-width: 380px) {
+    
+.message__content{
+    padding: 1rem 3.2rem;
+}
+
+.message__nome__texto{
+    font-size: 1rem;
+}
+
+.message__simbolo {
+    font-size: 1rem;
+}
+
+.message__text{
+    font-size: 0.85rem;
+}
+}
+
+
+/* RESPONSIVIDADE — Telas maiores */
+
+/* Apartir de  768px */
+@media (min-width: 768px) {
+
+    /* Header */
+    .header {
+        flex-direction: row;
+        justify-content: center;
+        gap: 1.5rem;
+    }
+
+    .envelope{
+        width: 120px;
+        height: 100px;
+    }
+
+    .titulo__main{
+        font-size: 1.3rem;
+    }
+
+    /* Main */
+    .container {
+        flex-direction: row-reverse;
+        align-items: stretch;
+        justify-content: center;
+        max-width: 1100px;
+        gap: 1rem;
+        margin: 15px 0px;
+    }
+
+    /* Área da mensagem */
+    .message {
+        position: relative;
+        width: 50%;
+        border-radius: 24px;
+        margin-left: 4px;
+        border: 2px solid var(--color-primary-focus);
+    }
+
+    /* Área do aplicativo */
+    .app {
+        width: 50%;
+        margin-top: 200px;
+    }
+
+    /* Section Mensagem */
+     .message.manifestar {
+        display: flex;
+    }
+
+    
+    /* Ilustração inicial */
+    .message__placeholder{
+        display: flex;
+        inset: 0;
+        opacity: 1;
+        transform: scale(1);
+        transition: 0.4s ease, transform 0.4s ease;
+    }
+
+
+    .message__content {
+        position: absolute;
+        inset: 0;
+        opacity: 0;
+        transform: scale(0.96);
+        transition: 0.4s ease, transform 0.4s ease;
+    }
+
+    .btn__actives {
+        display: none;
+    }
+
+    /* Quando a mensagem for revelada */
+    .message.mensagem__revelada .message__placeholder {
+        opacity: 0;
+        transform: scale(0.92);
+        pointer-events: none;
+    }
+
+    .message.mensagem__revelada .message__content {
+        opacity: 1;
+        transform: scale(1);
+        transition: opacity 0.45s ease, transform 0.45s ease;
+    }
+
+    .message.mensagem__revelada .btn__actives {
+        display: flex;
+    }
+
+    /* Footer */
+    .rodape{
+        padding: 2rem;
+    }
+}
+
+/* Telas maiores de 1000px */
+@media (min-width: 1000px){
+    .app{
+        width: 460px;        
+    }
+
+    .message{
+        width: 460px;
+    }
+
+     .message__content{
+        padding: 1.2rem 4.6rem;
+    }
+}
+
+/* Telas maiores de 1500px */
+@media (min-width: 1500px){
+    .app{
+        width: 560px;        
+    }
+
+    .subtitulo{
+        font-size: 1.2rem;
+    }
+
+    .subtitulo .fa-star,
+    .btn__revelar i{
+    font-size: 1rem;
+    }
+
+    .formulario{
+        width: 55%;
+    }
+
+    .message{
+        width: 560px;
+    }
+
+   .message__content{
+        padding: 2rem 5.8rem;
+    }
+
+    .message__nome__texto{
+        font-size: 1.7rem;
+    }
+
+    .message__simbolo,
+    .message__text{
+        font-size: 1.4rem;
+    }
+}

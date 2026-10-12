@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="description"
+        content="Receba mensagens motivacionais, descubra frases fofas e crie cartões personalizados com seu nome, molduras delicadas e muito carinho.">
+    <meta name="keywords"
+        content="correio motivacional, mensagens motivacionais, frases fofas, mensagens positivas, cartões personalizados, frases de carinho, mensagens de autoestima, html, css, javascript">
+    <meta name="author" content="Shilluê">
+    <meta name="robots" content="index, follow">
+
+    <!-- Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="./styles/style.css">
+    <link rel="stylesheet" href="./styles/responsive.css">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/carta.png">
+
+    <title>Correio Motivacional - Shilluê</title>
+</head>
+
+<body>
+    <header class="header">
+        <div class="envelope">
+            <img src="./assets/images/Carta kawaii-chatgpt.png" alt="Ilustração Envelope">
+        </div>
+        <h1 class="titulo__main">Uma mensagem para você!</h1>
+    </header>
+
+    <main class="container">
+        <section class="app">
+            <h2 class="subtitulo">
+                Digite seu nome e descubra uma mensagem especial <i class="fa-solid fa-star"></i>
+            </h2>
+            <form class="formulario" id="formulario">
+                <input type="text" id="nome" class="formulario__nome" autocomplete="off"
+                    placeholder="Digite seu nome...">
+
+                <p class="formulario__erro" id="formularioErro"></p>
+
+                <button type="submit" class="btn__revelar" id="btnRevelar">
+                    Revelar
+                    <i class="fa-solid fa-wand-magic-sparkles"></i>
+                </button>
+            </form>
+        </section>
+
+        <!-- Section Message -->
+        <section class="message manifestar">
+            <div class="message__visual">
+                <div class="message__placeholder">
+                    <img src="./assets/images/Caixinha de Correio Encantada-chatgbt.png"
+                        alt="Caixa de correio com uma carta">
+                </div>
+                <div class="message__content">
+                    <!-- O conteúdo da mensagem será exibido aqui. -->
+                </div>
+            </div>
+
+            <div class="btn__actives">
+                <button type="button" class="button btn__salva">Salvar</button>
+                <button type="button" class="button btn__compartilhar">Compartilhar</button>
+            </div>
+        </section>
+        <!-- Modal principal -->
+        <section class="modal__main" id="modal">
+            <!-- O conteúdo do modal será criado pelo JavaScript -->
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="rodape">
+        <p>
+            <i class="fa-solid fa-heart"></i>Feito com carinho por <a href="https://www.linkedin.com/in/shillu%C3%AA/" target="_blank" rel="noopener noreferrer">Shilluê</a><i class="fa-solid fa-heart"></i>
+        </p>
+    </footer>
+
+    <!-- Biblioteca HTML to Image -->
+    <script src="https://cdn.jsdelivr.net/npm/html-to-image@1.11.13/dist/html-to-image.js"></script>
+    <!-- JavaScript -->
+    <script type="module" src="./js/main.js"></script>
+</body>
+
+</html>
