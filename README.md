@@ -63,7 +63,7 @@ correio-motivacional/
 
 ## 🚀 Acesse o projeto
 
-💌 Site: Correio Motivacional
+💌 Site: [Correio Motivacional](https://shillue.github.io/correio-motivacional/)
 
 ## 👩‍💻 Autoria
 
