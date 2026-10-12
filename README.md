@@ -67,4 +67,4 @@ correio-motivacional/
 
 ## 👩‍💻 Autoria
 
-Desenvolvido com 💗 e muito carinho.
+Desenvolvido com 💗 e muito carinho por [Shilluê](https://www.linkedin.com/in/shillu%C3%AA/)
