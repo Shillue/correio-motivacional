@@ -99,6 +99,7 @@ button{
     max-width: 420px;
     background-color: var(--color-surface);
     margin: 5px 0;
+    flex: 1;
 }
 
 .app{
