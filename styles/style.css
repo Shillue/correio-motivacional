@@ -37,7 +37,6 @@ body{
     min-height: 100vh;
     min-height: 100dvh;
     background-color: var(--color-surface);
-    border: 1px solid rebeccapurple;
 }
 
 a {
