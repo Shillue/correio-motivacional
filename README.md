@@ -1,6 +1,6 @@
 # 💌 Correio Motivacional
 
-Um cantinho virtual para receber mensagens motivacionais e espalhar carinho em forma de palavras. 🌷
+Um cantinho virtual para enviar e receber mensagens motivacionais e espalhar carinho em forma de palavras. 🌷
 
 ## ✨ Sobre o projeto
 
